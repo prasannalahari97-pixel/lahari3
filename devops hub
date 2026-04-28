@@ -1,0 +1,4 @@
+esc :w      → Save file
+esc :q      → Quit/close
+esc :wq     → Save and Quit
+esc :wq!    → Force Save and Quit
